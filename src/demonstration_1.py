@@ -22,5 +22,4 @@ string objects in Python. Think about how character encoding works and explore
 if there is a mathematical approach that you can take.*
 """
 def to_lower_case(string):
-    # Your code here
-
+    
