@@ -20,4 +20,12 @@ def hamming_weight(n):
     # Your code here
     print(bin(n).count('1'))
     
-hamming_weight(n = 515)
+hamming_weight(n = 78)
+
+
+# another possible solution that shows the binary number without the conversion
+
+# def dec_to_bin(x):
+#     return int(bin(x)[2:])
+
+# print(dec_to_bin(515))
